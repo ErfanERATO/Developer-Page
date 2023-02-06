@@ -1,0 +1,18 @@
+.container-fluid{
+    background-color: transparent;
+    padding-top: 45px;
+    .container{
+        background-color: transparent;
+        .logo-and-text-holder{
+            display: flex;
+            flex-direction: row;
+            .Easy-code-logo{
+                .logo{
+                    width: 150px;
+                    height: 29px;
+                }
+            }
+        
+        }
+    }
+}

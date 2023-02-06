@@ -1,0 +1,32 @@
+.developer-holder{
+    margin-top: 58px;
+   .ui-text{
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: flex-end;
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 27.2px;
+    font-family: Kalameh;
+    margin-right: 66px;
+   } 
+
+   .ui-designer-text{
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: flex-start;
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 27.2px;
+    font-family: Kalameh;
+    margin-left: -59px;
+    .website-span{
+        color: #ef9d92;
+    }
+    .date-span{
+        color: #9da1ac;
+    }
+   }
+}

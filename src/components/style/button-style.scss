@@ -1,0 +1,21 @@
+.button-holder{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    .button-text-holder{
+        background-color: #f04f57;
+        width: 140px;
+        height: 35px;
+        border-radius: 8px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+       .button-text{
+         font-family: Kalameh;
+         font-weight: 500;
+         line-height: 24px;
+         font-size: 14px;
+         color: white;
+       } 
+    }
+}
